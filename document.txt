@@ -1,0 +1,159 @@
+INTRODUCTION
+
+Javascript was introduced in 1995 as a was to add programs to a web pages in the Netcape Navigator browser.
+Its important to note that javascript has nothing to do with java programming language.the similar name was being inspired by marketing considerations.
+Javascript cannot only be used in web browsers ,some database such as Mongo DB and CouchDB use javascrpt as their scripting and query language.
+we also have Node.js which provide an enviroment for programming javascript outside of the browser.
+javscript is a dynamic computer programming language used to make web browser pages interactive.
+ It was invented by Brendan Eich in 1995,and became an ECMA  standard in 1997.
+
+   INTERNAL JAVASCRIPT
+We learn how javascript can be used together with the html elements inside the html file.
+We said javascript is used with web pages,hence you should know that javascript should be inserted between <script></script> tags.
+
+
+       // code for scrpt js
+
+    EXTERNAL JAVASCRIPT
+script can also be placed in an external file,this file will be containg javascript script.
+
+this file will be containg javascript script.
+The javascrpt file have the file extension.js.
+To use the  file you put the name of the script  file in the src attribute.
+
+
+    // code for script js
+
+
+ADVANTAGE OF EXTERNAL JAVASCRIPT
+
+Placing the javascript externally has the following adv:
+ 
+    // list items
+  .it separates javascript code and html code.
+  .its easier read 
+  .it speed up the page.
+
+
+   why learn javascript.
+Below are the reason why you should consider to learn javascript:
+  .most popular programming lang
+  .javascript is versatile
+  .its in your browser
+
+   BASICS OF JAVASCRIPT
+When startinig to learn javascript their are javascript basics you should consider to master first,this include the following:
+  .data types
+  .function
+  .keyword
+  .variable
+  .comments
+  .array
+
+
+
+
+
+
+ DATA TYPES
+javascript variable can hold many data types:
+    .string -a character or a string of characters
+    .number - an integer or floating point number
+    .boolean - a value with true or false.
+    .function  - a user defined method
+    .object - a built-in or user-defined object
+
+FUNCTION
+
+ A function is a code block that can repeat to run many times.To define a function,use function-name.
+function is exercuted when something calls it.
+  
+     // code of function.
+
+
+FUNCTION SYNTAX 
+  Javascript function is defined with the function keyword,followed by a name then followed by parentheses ().
+  Function names can contain letters,digits,underscores,and dollar signs.
+
+
+   KEYWORDS
+Keywords belong to javascript itself.The following are example of javascript keyword:
+   .break
+   .return
+   .false
+   .typeof
+   .with
+   .forms
+
+
+VARIABLES
+Variable is a symbolic name associated with a value.They are containers for storing data values.
+     
+
+    // code for variable 
+
+
+COMMENTS
+comments in javascript can be used to explaing javascript code and also prevent exercution,when testing alternative code.
+There are two type of comment in javascript:
+   
+
+  SINGLE LINE COMMENTS
+They start with //.
+code that comes before // will not be exercuted.
+   
+    // code for sngle line comments
+
+
+MULTI-LINE COMMENTS
+
+  They start with /* and end with */
+ Any code between /* and */ will not be exercuted.
+
+
+    // code for multi-line comments.
+
+
+ ARRAYS 
+ 
+ Arrays in javascript are used to store multiple values in a single variable.new Array() will create an array.
+
+
+
+
+     // code for array
+
+
+Showing an array element values we use the following syntax for example.
+    
+     
+     // code to show the array element
+
+
+
+Getting the size of an array.
+
+    // code size of an array 
+
+
+
+RESOURCES
+
+Below are some of the books that can help help you to start your journey or master javascript
+    
+    .Eloquent javascript by Marijn Haverbeke
+    .javascript in 8 Hours by Yao Ray
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
